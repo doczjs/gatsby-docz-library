@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-lib-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "devDependencies": {
+    "docz": "^1.0.0-rc.3",
+    "docz-theme-default": "^1.0.0-rc.3",
+    "gatsby": "^2.2.5",
+    "gatsby-mdx": "^0.4.4",
+    "gatsby-theme-docz": "^1.0.0-rc.3",
+    "minireset.css": "^0.0.4"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "rebass": "^3.0.1",
+    "styled-components": "^4.1.3"
+  }
+}
